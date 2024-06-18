@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @caue-de-lima-santos
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript and frameworks
+- 📫 How to reach me : cauelss9@gmail.com
+- 😄 Pronouns: he/his
